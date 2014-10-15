@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: fd7ed3d072344497d9cfc1efe7c54891
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: x-sprites
+    21300002: ray
+    21300004: ray_floor
+    21300006: x_arrives
+    21300008: x_standing
+    21300010: x_standing_close_eyes
+    21300012: x_standing_close_eyes-complete
+    21300014: x-sprites_6
+    21300016: x-sprites_7
+    21300018: jump_1
+    21300020: jump_2
+    21300022: jump_3
+    21300024: jump_4
+    21300026: jump_5
+    21300028: jump_6
+    21300030: jump_7
+    21300032: run_1
+    21300034: run_3
+    21300036: run_4
+    21300038: run_5
+    21300040: run_6
+    21300042: run_7
+    21300044: run_8
+    21300046: run_9
+    21300048: run_10
+    21300050: run_11
+    21300052: run_12
+    21300054: x-sprites_26
+    21300056: x-sprites_27
+    21300058: x-sprites_28
+    21300060: x-sprites_29
+    21300062: x-sprites_30
+    21300064: x-sprites_31
+    21300066: x-sprites_32
+    21300068: x-sprites_33
+    21300070: x-sprites_34
+    21300072: x-sprites_35
+    21300074: x-sprites_36
+    21300076: x-sprites_37
+    21300078: x-sprites_38
+    21300080: x-sprites_39
+    21300082: x-sprites_40
+    21300084: x-sprites_41
+    21300086: x-sprites_42
+    21300088: x-sprites_43
+    21300090: x-sprites_44
+    21300092: x-sprites_45
+    21300094: x-sprites_46
+    21300096: x-sprites_47
+    21300098: x-sprites_48
+    21300100: x-sprites_49
+    21300102: x-sprites_50
+    21300104: x-sprites_51
+    21300106: x-sprites_52
+    21300108: x-sprites_53
+    21300110: x-sprites_54
+    21300112: x-sprites_55
+    21300114: x-sprites_56
+    21300116: x-sprites_57
+    21300118: x-sprites_58
+    21300120: x-sprites_59
+    21300122: x-sprites_60
+    21300124: x-sprites_61
+    21300126: x-sprites_62
+    21300128: x-sprites_63
+    21300130: x-sprites_64
+    21300132: x-sprites_65
+    21300134: x-sprites_66
+    21300136: x-sprites_67
+    21300138: x-sprites_68
+    21300140: x-sprites_69
+    21300142: x-sprites_70
+    21300144: x-sprites_71
+    21300146: x-sprites_72
+    21300148: x-sprites_73
+    21300150: x-sprites_74
+    21300152: x-sprites_75
+    21300154: x-sprites_76
+    21300156: x-sprites_77
+    21300158: x-sprites_78
+    21300160: x-sprites_79
+    21300162: x-sprites_80
+    21300164: x-sprites_81
+    21300166: x-sprites_82
+    21300168: x-sprites_83
+    21300170: x-sprites_84
+    21300172: x-sprites_85
+    21300174: x-sprites_86
+    21300176: x-sprites_87
+    21300178: x-sprites_88
+    21300180: x-sprites_89
+    21300182: x-sprites_90
+    21300184: x-sprites_91
+    21300186: x-sprites_92
+    21300188: x-sprites_93
+    21300190: x-sprites_94
+    21300192: x-sprites_95
+    21300194: x-sprites_96
+    21300196: x-sprites_97
+    21300198: x-sprites_98
+    21300200: x-sprites_99
+    21300202: x-sprites_100
+    21300204: x-sprites_101
+    21300206: x-sprites_102
+    21300208: x-sprites_103
+    21300210: x-sprites_104
+    21300212: x-sprites_105
+    21300214: x-sprites_106
+    21300216: x-sprites_107
+    21300218: x-sprites_108
+    21300220: x-sprites_109
+    21300222: x-sprites_110
+    21300224: x-sprites_111
+    21300226: x-sprites_112
+    21300228: x-sprites_113
+    21300230: x-sprites_114
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ray
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 558
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ray_floor
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 558
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_arrives
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 558
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_standing
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 558
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_standing_close_eyes
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 558
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x_standing_close_eyes-complete
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 558
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 502
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 502
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 502
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 502
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 502
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 502
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 501
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 501
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 501
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 459
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 458
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 458
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 458
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 459
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 459
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 459
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 458
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 458
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 408
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 408
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 408
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 408
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 408
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 408
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 408
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 408
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 408
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 407
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 407
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 362
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 362
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 362
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 362
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 362
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 362
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 362
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 362
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 362
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 362
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 319
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 319
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 319
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 319
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 319
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 319
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 319
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 269
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 268
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 267
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 268
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 268
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 266
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 267
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 216
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 216
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 215
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 218
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 218
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 219
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 218
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 220
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 222
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 222
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 155
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 155
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 158
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 158
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 155
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 173
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_80
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 178
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 157
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_82
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 165
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 165
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_85
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 165
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_86
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 165
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 165
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_88
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 166
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_89
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 167
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 99
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 99
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_94
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 99
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_95
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 102
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_96
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 103
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_97
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 104
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 97
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_99
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 102
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 38
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 38
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_104
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 38
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_105
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 38
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_107
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 41
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_108
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 44
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_109
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 47
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_110
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 7
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_112
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_113
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: x-sprites_114
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 6
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

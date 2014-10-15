@@ -1,0 +1,8 @@
+_Store
+Tilbury Unity Project/Library/*
+Tilbury Unity Project/Temp/*
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
