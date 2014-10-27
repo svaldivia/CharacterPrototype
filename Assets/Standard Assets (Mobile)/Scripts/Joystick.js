@@ -56,7 +56,7 @@ function Start()
     
     defaultRect.x += transform.position.x * Screen.width;// + gui.pixelInset.x; // -  Screen.width * 0.5;
     defaultRect.y += transform.position.y * Screen.height;// - Screen.height * 0.5;
-    
+
     transform.position.x = 0.0;
     transform.position.y = 0.0;
         
