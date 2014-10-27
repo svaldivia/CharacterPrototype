@@ -1,6 +1,13 @@
-_Store
-Library/*
-Temp/*
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+*_Store
+
 *.csproj
 *.pidb
 *.unityproj
