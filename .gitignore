@@ -1,6 +1,6 @@
 _Store
-Tilbury Unity Project/Library/*
-Tilbury Unity Project/Temp/*
+Library/*
+Temp/*
 *.csproj
 *.pidb
 *.unityproj
